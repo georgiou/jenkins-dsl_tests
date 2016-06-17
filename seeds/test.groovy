@@ -1,4 +1,4 @@
-pipelineJob('example-1a') {
+pipelineJob('example-1b') {
   definition {
     cpsScm {
       scm {
